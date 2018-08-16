@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/下载</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-256.000000, -137.000000)"></g>
+        <g id="icon/下载" fill="#475669">
+            <path d="M10,14 C9.7,14 9.5,13.9 9.3,13.7 L3.6,8 L5,6.6 L9,10.6 L9,2 L11,2 L11,10.6 L15,6.6 L16.4,8 L10.7,13.7 C10.5,13.9 10.3,14 10,14 Z M16,16 L16,13 L18,13 L18,17 C18,17.6 17.6,18 17,18 L3,18 C2.4,18 2,17.6 2,17 L2,13 L4,13 L4,16 L16,16 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

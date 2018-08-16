@@ -1,0 +1,49 @@
+/   主页
+follower 个人信息-关注者-关注中
+userSetting 用户设置
+issues 工单管理
+storeIndex 仓库首页
+pushHistory 提交历史
+branch  分支
+versionpub  版本发布/编辑页面
+Version   版本发布
+userlist   用户列表
+ticketmanagemain  工单管理页面
+dashboard  控制面板
+mergerequest  合并请求
+mergerequestlist   合并请求列表
+comparerequest     对比并请求合并
+mergestatusfailed  合并状态（失败） 
+
+
+codedetailpage 代码详情页面
+filechangepage 文件变动页
+wiki 维基页面
+wikidetail 维基详情页
+wikicreate  创建新wiki
+storesetting (仓库设置, 管理协作者,管理分支,管理Web钩子,编辑Web钩子,管理部署密钥)
+
+storeindex/mergerequest children
+filechangepage 文件变动
+codesubmitpage 代码提交列表页
+
+createnewstore 创建新仓库
+initstoreone 初始化仓库1
+仓库初始化 同仓库首页
+migratestore  迁移外部仓库
+deriveStore 派生仓库
+
+milestoneList 里程碑页面
+labelList 标签页面
+
+
+>>>>>>>>>>build.sh
+
+# cd /src
+# npm i --registry=https://registry.npm.taobao.org --phantomjs_cdnurl=https://npm.taobao.org/mirrors/phantomjs --chromedriver_cdnurl=https://npm.taobao.org/mirrors/chromedriver --sass_binary_site=https://npm.taobao.org/mirrors/node-sass/
+# npm i highlight.js
+# npm run build -- test
+# cp -r dist/* /usr/share/nginx/html/
+# rm -rf node_modules dist/*
+
+>>>>end

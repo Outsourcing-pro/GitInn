@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/多层级_下</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-221.000000, -338.000000)"></g>
+        <g id="icon/多层级_下" fill="#919AA7">
+            <g id="Rectangle-10" transform="translate(5.000000, 5.000000) rotate(-270.000000) translate(-5.000000, -5.000000) translate(2.000000, -0.000000)">
+                <path d="M5.54185829,4.68760737 L0.822904585,0.696057783 C0.612070195,0.517722505 0.296585846,0.544068241 0.118250568,0.754902631 C0.0418962914,0.845171407 2.07565557e-16,0.959576816 2.22044605e-16,1.07780722 L1.88737914e-15,8.94273006 C1.92119683e-15,9.21887244 0.223857625,9.44273006 0.5,9.44273006 C0.615691293,9.44273006 0.727802634,9.40261095 0.817227376,9.32921006 L5.53618108,5.45583681 C5.74962809,5.28063696 5.78063355,4.96557644 5.60543371,4.75212943 C5.58623772,4.72874284 5.56495862,4.70714689 5.54185829,4.68760737 Z" id="Path-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

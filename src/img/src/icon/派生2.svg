@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/派生2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/派生2" stroke="#919AA7" stroke-width="1.5">
+            <g id="Group" transform="translate(4.000000, 3.000000)">
+                <path d="M1.91894531,3.79931641 L1.91894531,5.10555065 C1.91894531,5.84088062 2.32245293,6.5169054 2.96967825,6.86591767 L6,8.5 L6,11.5" id="Path-9" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M10.4189453,3.79931641 L10.4189453,5.06104667 C10.4189453,5.8197382 9.98965654,6.51310696 9.31052275,6.85132309 L6,8.5" id="Path-9" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval-12" cx="2" cy="2" r="1.5"></circle>
+                <circle id="Oval-12" cx="10.5" cy="2" r="1.5"></circle>
+                <circle id="Oval-12" cx="6" cy="13.5" r="1.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

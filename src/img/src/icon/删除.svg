@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/删除</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-204.000000, -217.000000)"></g>
+        <g id="icon/删除" stroke="#919AA7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+            <path d="M7.5,5.5 L7.5,4.5 C7.5,3.94771525 7.94771525,3.5 8.5,3.5 L11.5,3.5 C12.0522847,3.5 12.5,3.94771525 12.5,4.5 L12.5,5.5" id="Rectangle-16"></path>
+            <path d="M3,6.5 L17,6.5 L3,6.5 Z" id="Rectangle-15"></path>
+            <path d="M14.5,8.5 L14.5,16 C14.5,16.5522847 14.0522847,17 13.5,17 L6,17 C5.44771525,17 5,16.5522847 5,16 L5,8.5" id="Rectangle-17"></path>
+            <path d="M8.25,9.5 L8.25,14" id="Path-10"></path>
+            <path d="M11.25,9.5 L11.25,14" id="Path-10"></path>
+        </g>
+    </g>
+</svg>

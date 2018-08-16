@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/里程碑</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-308.000000, -137.000000)"></g>
+        <g id="icon/里程碑">
+            <path d="M7,16 L7,4 L7,16 Z" id="Stroke-2033" stroke="#465364" stroke-width="1.375" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M14.8268161,8.88598849 L8.24574728,12.6001135 C8.00526023,12.7358359 7.70028215,12.6509075 7.56455968,12.4104204 C7.52223792,12.3354304 7.5,12.2507814 7.5,12.1646731 L7.5,4.73642319 C7.5,4.46028081 7.72385763,4.23642319 8,4.23642319 C8.08610829,4.23642319 8.17075724,4.25866111 8.24574728,4.30098287 L14.8268161,8.01510785 C15.0673032,8.15083032 15.1522316,8.4558084 15.0165092,8.69629545 C14.9717381,8.7756254 14.9061461,8.84121744 14.8268161,8.88598849 Z" id="Triangle" fill="#465364"></path>
+        </g>
+    </g>
+</svg>

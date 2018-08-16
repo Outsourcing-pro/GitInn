@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="12px" viewBox="0 0 10 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>红点</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-54.1%" y="-54.1%" width="208.3%" height="208.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1.44345238" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="红点" fill="#FF5757">
+            <g id="绿点" transform="translate(1.000000, 1.000000)">
+                <circle id="Oval-2" opacity="0.300000012" filter="url(#filter-1)" cx="4" cy="6" r="4"></circle>
+                <circle id="Oval-2" cx="4" cy="4" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

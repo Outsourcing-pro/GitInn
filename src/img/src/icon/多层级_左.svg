@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/多层级_左</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-238.000000, -338.000000)"></g>
+        <g id="icon/多层级_左" fill="#919AA7">
+            <g id="Rectangle-10" transform="translate(6.000000, 5.000000) rotate(-270.000000) translate(-6.000000, -5.000000) translate(1.000000, 2.000000)">
+                <path d="M7.54185829,2.68760737 L2.82290459,-1.30394222 C2.6120702,-1.48227749 2.29658585,-1.45593176 2.11825057,-1.24509737 C2.04189629,-1.15482859 2,-1.04042318 2,-0.922192784 L2,6.94273006 C2,7.21887244 2.22385763,7.44273006 2.5,7.44273006 C2.61569129,7.44273006 2.72780263,7.40261095 2.81722738,7.32921006 L7.53618108,3.45583681 C7.74962809,3.28063696 7.78063355,2.96557644 7.60543371,2.75212943 C7.58623772,2.72874284 7.56495862,2.70714689 7.54185829,2.68760737 Z" id="Path-2" transform="translate(5.000000, 3.000000) rotate(-90.000000) translate(-5.000000, -3.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

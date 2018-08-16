@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/wiki</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-178.000000, -137.000000)"></g>
+        <g id="icon/wiki" fill="#465364">
+            <g transform="translate(2.000000, 4.000000)" id="Fill-212">
+                <path d="M14,10.5 C13.3,10.2 12.4,10 11.5,10 C10.6,10 9.7,10.2 9,10.5 L9,3 C9,2.7 9.9,2 11.5,2 C13.1,2 14,2.7 14,3 L14,10.5 Z M4.5,10 C3.6,10 2.7,10.2 2,10.5 L2,3 C2,2.7 2.9,2 4.5,2 C6.1,2 7,2.7 7,3 L7,10.5 C6.3,10.2 5.4,10 4.5,10 L4.5,10 Z M11.5,0 C10.1,0 8.8,0.4 8,1.1 C7.2,0.4 5.9,0 4.5,0 C1.9,0 0,1.3 0,3 L0,13 C0,13.6 0.4,14 1,14 C1.6,14 2,13.6 2,13 C2,12.7 2.9,12 4.5,12 C6.1,12 7,12.7 7,13 C7,13.6 7.4,14 8,14 C8.6,14 9,13.6 9,13 C9,12.7 9.9,12 11.5,12 C13.1,12 14,12.7 14,13 C14,13.6 14.4,14 15,14 C15.6,14 16,13.6 16,13 L16,3 C16,1.3 14.1,0 11.5,0 L11.5,0 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

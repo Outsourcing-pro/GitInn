@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/合并了请求</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/合并了请求">
+            <g id="Group" transform="translate(4.000000, 3.000000)">
+                <path d="M2,4 L2,10.5" id="Path-9" stroke="#919AA7" stroke-width="1.5"></path>
+                <path d="M8,2.98364258 L9.5,2.98364258 C10.3284271,2.98364258 11,3.65521545 11,4.48364258 L11,10.1989746" id="Path-9" stroke="#919AA7" stroke-width="1.5" stroke-linejoin="round"></path>
+                <path d="M5.63791516,2.58183556 L8.03966771,1.00744516 C8.27061355,0.856056159 8.58055718,0.920549722 8.73194618,1.15149556 C8.78533889,1.23294683 8.81378174,1.32821817 8.81378174,1.4256096 L8.81378174,4.5743904 C8.81378174,4.85053278 8.58992411,5.0743904 8.31378174,5.0743904 C8.21639031,5.0743904 8.12111897,5.04594756 8.03966771,4.99255484 L5.63791516,3.41816444 C5.40696932,3.26677544 5.34247575,2.95683181 5.49386475,2.72588597 C5.53148721,2.66849243 5.58052162,2.61945802 5.63791516,2.58183556 Z" id="Triangle-3" fill="#919AA7"></path>
+                <circle id="Oval-12" stroke="#919AA7" stroke-width="1.5" cx="2" cy="2.5" r="1.5"></circle>
+                <circle id="Oval-12" stroke="#919AA7" stroke-width="1.5" cx="2" cy="12" r="1.5"></circle>
+                <circle id="Oval-12" stroke="#919AA7" stroke-width="1.5" cx="11" cy="12" r="1.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

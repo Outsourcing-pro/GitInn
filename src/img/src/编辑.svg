@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/编辑</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="icon/编辑" stroke="#A2ADBB" stroke-width="2">
+            <g id="Group-8" transform="translate(4.000000, 4.000000)">
+                <path d="M5,0 L2,0 C0.8954305,2.02906125e-16 -1.3527075e-16,0.8954305 0,2 L0,10 C1.3527075e-16,11.1045695 0.8954305,12 2,12 L10,12 C11.1045695,12 12,11.1045695 12,10 L12,7" id="Path-2"></path>
+                <path d="M6.08794747,6.08923646 L12.1771839,0" id="Path-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

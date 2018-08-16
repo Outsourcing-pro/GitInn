@@ -1,0 +1,166 @@
+@import url("../../fontIcon/iconfont.css");
+.el-input__inner {
+	height: 38px;
+}
+
+.info_msg {
+	position: fixed;
+	display: table;
+	background: white;
+	color: #1F2D3D;
+	left: 50%;
+	top: -60px;
+	margin: auto;
+	min-width: 320px;
+	transform: translate(-50%);
+	transition: top ease .4s;
+	box-shadow: 0 0 8px rgba(0, 0, 0, .3);
+}
+
+.info_msg_close {
+	margin-right: 10px;
+}
+
+.info_msg_close img {
+	float: right;
+	position: absolute;
+	right: 10px;
+	top: 50%;
+	transform: translateY(-50%);
+	cursor: pointer;
+}
+
+.info_msg_show {
+	top: 30px;
+}
+
+.info_msg_icon {
+	/*background:greenyellow;*/
+	margin-right: 15px;
+	width: 40px;
+	height: 40px;
+}
+
+.info_msg_left {
+	float: left;
+}
+
+.info_msg_blue_icon {
+	background: #56A3FF;
+}
+
+.info_msg_green_icon {
+	background: #23CD7E;
+}
+
+.info_msg_orange_icon {
+	background: #FFA81A;
+}
+
+.info_msg_red_icon {
+	background: #FF7575;
+}
+
+.info_msg_icon img {
+	width: 20px;
+	height: 20px;
+}
+
+.info_msg_cnt {
+	max-width: 700px;
+	padding-right: 40px;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+
+.labelBT {
+	min-width: 120px;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+
+
+/*compare css*/
+
+.compareTable {
+	width: 100%;
+	font-size: 12px;
+	line-height: 1.4;
+	border-collapse: collapse;
+}
+
+.lines-num {
+	color: gray;
+	padding: 0 3px;
+	border-right: 1px solid #d4d4d5;
+	text-align: center;
+	width: 15px;
+	min-width: 15px;
+}
+
+.borderLeft {
+	border-left: 1px solid #d4d4d5;
+}
+
+.tag-code {
+	background: #F0F0F0;
+}
+
+.same-code {
+	background: white;
+}
+
+.add-code {
+	background: #eaffea;
+}
+
+.del-code {
+	background: #ffecec;
+}
+
+.lines-code {
+	padding-left: 10px;
+	text-align: left;
+}
+
+.halfwidth {
+}
+
+.lines-code pre {
+	margin: 0;
+	text-align: left;
+}
+
+.lines-code code {
+	/*padding-top:4px;
+		float: left;*/
+	/*display: inline;*/
+}
+
+.static {
+	margin-bottom: 10px;
+	color: gray;
+}
+
+.static_item {
+	padding: 10px;
+	border-bottom: 1px dashed darkgray;
+}
+
+.a_store_icon {
+	margin-left:5px;
+	width: 15px;
+}
+
+.a_line_menu_list{
+	left:50%;
+	/*width:100%;*/
+	top:0 !important;
+}
+
+.a_line_menu_list #menuList{
+	width:100%;
+	transform: translate(-50%);
+}

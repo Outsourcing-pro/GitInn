@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/标签绿</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-506.000000, -157.000000)"></g>
+        <g id="icon/标签绿" stroke="#23CD7E" stroke-linecap="round" stroke-linejoin="round">
+            <g transform="translate(3.000000, 3.000000)">
+                <polygon id="Stroke-4734" points="14 8 6 0 0 0 0 6 8 14"></polygon>
+                <path d="M2.5862069,3.62068966 C2.5862069,3.04913793 3.04913793,2.5862069 3.62068966,2.5862069 C4.19224138,2.5862069 4.65517241,3.04913793 4.65517241,3.62068966 C4.65517241,4.19224138 4.19224138,4.65517241 3.62068966,4.65517241 C3.04913793,4.65517241 2.5862069,4.19224138 2.5862069,3.62068966 L2.5862069,3.62068966 Z" id="Stroke-4735"></path>
+            </g>
+        </g>
+    </g>
+</svg>

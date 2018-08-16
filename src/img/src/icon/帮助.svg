@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/帮助</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-284.000000, -217.000000)"></g>
+        <g id="icon/帮助" fill="#308EFF">
+            <path d="M6.4,11.75 L9.4,11.75 L9.4,12.9166667 L6.4,12.9166667 L6.4,11.75 Z M6.4,8.83333333 L13.6,8.83333333 L13.6,10 L6.4,10 L6.4,8.83333333 Z M6.4,5.91666667 L13.6,5.91666667 L13.6,7.08333333 L6.4,7.08333333 L6.4,5.91666667 Z M11.2,17 L4.6,17 C4.2688,17 4,16.7386667 4,16.4166667 L4,3.58333333 C4,3.26133333 4.2688,3 4.6,3 L15.4,3 C15.7312,3 16,3.26133333 16,3.58333333 L16,12.3333333 L11.8,12.3333333 C11.4688,12.3333333 11.2,12.5946667 11.2,12.9166667 L11.2,17 Z M15.64846,13.5 L12.40006,16.6581667 L12.40006,13.5 L15.64846,13.5 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

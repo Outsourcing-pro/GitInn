@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/关闭工单</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/关闭工单">
+            <g id="Group" transform="translate(4.000000, 4.000000)">
+                <path d="M8.29662714,0.455241747 C7.58920781,0.161901689 6.81351099,0 6,0 C2.6862915,0 0,2.6862915 0,6 C0,9.3137085 2.6862915,12 6,12 C9.3137085,12 12,9.3137085 12,6" id="Oval-13" stroke="#919AA7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="Path-11" stroke="#919AA7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="8 2.43998563 9.79046227 4.2304479 13.0209102 1"></polyline>
+                <path d="M6,3.5 L6,6.17448672" id="Path-10" stroke="#919AA7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval-14" fill="#919AA7" cx="6" cy="8.5" r="1"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1800px" height="108px" viewBox="0 0 1800 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>底部</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1800" height="108"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="底部">
+            <g>
+                <g id="Rectangle-9">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#F4F5F9" stroke-width="10" x="-5" y="-5" width="1810" height="118"></rect>
+                </g>
+                <text id="公司介绍-|-关于我们-|-公司动态-|" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="23" fill="#919AA7">
+                    <tspan x="711.384" y="44">公司介绍    |    关于我们    |    公司动态    |    法律声明    |    联系我们</tspan>
+                    <tspan x="750" y="67">Copyright 2006-2017 Gitinn.com  All Rights Reserved</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

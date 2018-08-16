@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>关注</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人_个人贡献" transform="translate(-642.000000, -115.000000)" fill="#308EFF">
+            <g id="Group-10" transform="translate(612.000000, 102.000000)">
+                <g id="Group-14" transform="translate(30.000000, 8.000000)">
+                    <path d="M4,9 L1,9 L1,9 C0.44771525,9 -6.76353751e-17,9.44771525 0,10 C6.76353751e-17,10.5522847 0.44771525,11 1,11 L4,11 L4,14 C4,14.5522847 4.44771525,15 5,15 C5.55228475,15 6,14.5522847 6,14 L6,11 L9,11 C9.55228475,11 10,10.5522847 10,10 C10,9.44771525 9.55228475,9 9,9 L6,9 L6,6 C6,5.44771525 5.55228475,5 5,5 L5,5 C4.44771525,5 4,5.44771525 4,6 L4,9 Z" id="关注"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

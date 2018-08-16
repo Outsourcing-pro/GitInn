@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/评论</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="icon/评论" stroke="#919AA7" stroke-width="1.5">
+            <g id="Group-9" transform="translate(4.000000, 4.000000)">
+                <path d="M4.1691,8.86671429 C4.7983,10.1927143 6.47443333,11.1428571 8.45,11.1428571 C8.97043333,11.1428571 9.46876667,11.0738571 9.9346,10.9525714 L11.7,12 L11.7,10.1117143 C12.5034,9.49328571 13,8.64814286 13,7.71428571 C13,6.747 12.4665667,5.87528571 11.6120333,5.25214286" id="Stroke-840"></path>
+                <path d="M5.85,0 C2.61906667,0 0,2.01471429 0,4.5 C0,5.57057143 0.488366667,6.55285714 1.3,7.32557143 L1.3,10.2857143 L4.2523,8.82557143 C4.7606,8.93657143 5.29533333,9 5.85,9 C9.08093333,9 11.7,6.98528571 11.7,4.5 C11.7,2.01471429 9.08093333,0 5.85,0 L5.85,0 Z" id="Stroke-841"></path>
+            </g>
+        </g>
+    </g>
+</svg>

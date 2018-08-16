@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/删除</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="icon/删除" stroke="#A2ADBB" stroke-width="2">
+            <g id="Group-8" transform="translate(4.000000, 5.000000)">
+                <g id="Group">
+                    <path d="M0,10.6910136 L10.6910136,0" id="Path-3"></path>
+                    <path d="M0,10.6910136 L10.6910136,0" id="Path-3" transform="translate(5.345507, 5.345507) scale(-1, 1) translate(-5.345507, -5.345507) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

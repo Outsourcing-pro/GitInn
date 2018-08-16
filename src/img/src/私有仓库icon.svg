@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/私有仓库icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon/私有仓库icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-10" transform="translate(7.000000, 3.000000)" stroke="#444444" stroke-width="2">
+            <path d="M15.4545455,9 L15.4545455,5.4 C15.4545455,2.43 13,0 10,0 C7,0 4.54545455,2.43 4.54545455,5.4 L4.54545455,9" id="Stroke-327"></path>
+            <path d="M0,10.9950893 C0,9.8932319 0.898212381,9 1.99079514,9 L18.0092049,9 C19.1086907,9 20,9.8926228 20,10.9950893 L20,25.0049107 C20,26.1067681 19.1017876,27 18.0092049,27 L1.99079514,27 C0.891309342,27 0,26.1073772 0,25.0049107 L0,10.9950893 Z" id="Stroke-328"></path>
+            <path d="M10,19.9 L10,22.6" id="Stroke-329"></path>
+            <path d="M10,14.5 C11.5063636,14.5 12.7272727,15.7087 12.7272727,17.2 C12.7272727,18.6913 11.5063636,19.9 10,19.9 C8.49363636,19.9 7.27272727,18.6913 7.27272727,17.2 C7.27272727,15.7087 8.49363636,14.5 10,14.5 L10,14.5 Z" id="Stroke-330"></path>
+        </g>
+    </g>
+</svg>

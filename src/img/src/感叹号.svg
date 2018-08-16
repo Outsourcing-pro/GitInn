@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/感叹号</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/感叹号">
+            <path d="M10.7908447,4.4494219 L16.8707644,14.6046535 C17.1322818,15.0414634 16.9901791,15.6075696 16.5533691,15.8690869 C16.4102778,15.9547554 16.246626,16 16.0798501,16 L3.92001061,16 C3.41089937,16 2.99818316,15.5872838 2.99818316,15.0781726 C2.99818316,14.9113966 3.04342773,14.7477448 3.12909625,14.6046535 L9.20901598,4.4494219 C9.47053334,4.01261196 10.0366395,3.87050925 10.4734494,4.13202661 C10.6037834,4.21005735 10.712814,4.3190879 10.7908447,4.4494219 Z" id="Triangle-2" stroke="#919AA7" stroke-width="0.921827449"></path>
+            <path d="M10,11.0039223 L10,9" id="Path-3" stroke="#919AA7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <circle id="Oval-3" fill="#919AA7" cx="10" cy="14" r="1"></circle>
+        </g>
+    </g>
+</svg>

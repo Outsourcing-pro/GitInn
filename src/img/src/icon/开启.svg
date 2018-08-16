@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/开启</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon/开启" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M15.4090955,11.0123938 L7.84425059,15.826386 C7.28512094,16.1821958 6.54341599,16.0173724 6.18760621,15.4582428 C6.06508005,15.2657017 6,15.042213 6,14.8139922 L6,5.1860078 C6,4.5232661 6.5372583,3.9860078 7.2,3.9860078 C7.42822083,3.9860078 7.65170947,4.05108784 7.84425059,4.17361401 L15.4090955,8.98760621 C15.9682251,9.34341599 16.1330485,10.0851209 15.7772387,10.6442506 C15.6829442,10.7924276 15.5572724,10.9180994 15.4090955,11.0123938 Z" id="Triangle-4" fill="#919AA7"></path>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/导航/添加</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-428.000000, -217.000000)"></g>
+        <g id="icon/导航/添加" stroke="#465364" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+            <g id="Group-8" transform="translate(10.071068, 10.071068) rotate(-315.000000) translate(-10.071068, -10.071068) translate(5.071068, 5.071068)">
+                <g id="Group" transform="translate(-0.000000, 0.000000)">
+                    <path d="M-1.0658141e-14,9.89949494 L9.89949494,7.10542736e-15" id="Path-3"></path>
+                    <path d="M8.8817842e-15,9.89949494 L9.89949494,7.10542736e-15" id="Path-3" transform="translate(4.949747, 4.949747) scale(-1, 1) translate(-4.949747, -4.949747) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

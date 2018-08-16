@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/个人贡献未选中</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/个人贡献未选中" fill="#ADB7C3">
+            <path d="M6,2 L6,11 L2,11 L2,15 C2,16.7 3.3,18 5,18 L15,18 C16.7,18 18,16.7 18,15 L18,2 L6,2 L6,2 Z M16,15 C16,15.6 15.6,16 15,16 L8,16 L8,4 L16,4 L16,15 L16,15 Z" id="Fill-3"></path>
+            <polygon id="Fill-4" points="10 7 14 7 14 9 10 9"></polygon>
+            <polygon id="Fill-5" points="10 11 14 11 14 13 10 13"></polygon>
+        </g>
+    </g>
+</svg>
